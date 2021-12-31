@@ -1,0 +1,15 @@
+.square{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.first, .second, .third, .forth{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    height: 300px;
+    width: 100%;
+}
